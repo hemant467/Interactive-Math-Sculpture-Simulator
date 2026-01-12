@@ -64,4 +64,6 @@ run MathSculptureSimulator.m
   - Export animation to video or GIF formats.
   - Adjustable lighting and camera path automation.
 
+https://github.com/user-attachments/assets/51bbdb6d-0165-4e3d-921c-2359faf21ecf
+
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Interactive+Math+Sculpture+Simulator+🕹️&font=Fira%20Code&color=%23FFD700&center=true&width=600&height=60">
